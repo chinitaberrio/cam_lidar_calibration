@@ -79,7 +79,7 @@ The in rqt_reconfigure, feature_extraction variables correspond to the bounds of
 
 Extrinsic parameters will be displayed in both the commandline and RViz.
 
-- In the commandline, the first 3 values are Euler rotation angles (pitch, roll, yaw) and last 3 for translation (x,y,z). 
+- In the commandline, the first 3 values are Euler rotation angles (roll, pitch, yaw) and last 3 for translation (x,y,z). 
 
 - In RViz, the same values are displayed, except rotation angles are in Quaternion instead of Euler. 
 
